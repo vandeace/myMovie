@@ -21,8 +21,10 @@ OPEN http://localhost:3000/ ON YOUR BROWSER
 
 ## FEATURE
 
+```bash
 -Search Movie using OMDB API
 -automplete or sugggested movie search bar
 -display list of movies you searched
 -display detail movie
 -click image on detail movie to see image as modal
+```
